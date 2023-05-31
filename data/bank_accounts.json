@@ -1,0 +1,14 @@
+{
+  "accounts": [
+    {
+      "account_number": "1234567890",
+      "pin": "1234",
+      "balance": 1000
+    },
+    {
+      "account_number": "0987654321",
+      "pin": "4321",
+      "balance": 500
+    }
+  ]
+}

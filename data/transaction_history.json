@@ -1,0 +1,15 @@
+{
+  "history": [
+    {
+      "account_number": "1234567890",
+      "description": "Wpłata",
+      "amount": 100
+    },
+    {
+      "account_number": "0987654321",
+      "description": "Wypłata",
+      "amount": 50
+    }
+  ]
+}
+
